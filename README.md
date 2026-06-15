@@ -1,4 +1,3 @@
-<!-- README.md -->
 
 <h1 align="center">💼 Portfolio Website</h1>
 
@@ -8,6 +7,7 @@
 
 <a href="https://shreya-103.github.io/Portfolio/" >📎Check it here</a>
 <hr>
+
 ## 🔍 Features
 
 - 🎓 Cover page with brief intro 
@@ -16,11 +16,6 @@
 - 📄 Resume download option  
 - 📬 Footer with contact details
 
----
-
 ## 🛠️ Built With
 
 HTML • CSS • JavaScript
-
----
-
