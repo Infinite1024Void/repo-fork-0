@@ -1,4 +1,3 @@
-<!-- README.md -->
 
 <h1 align="center">💼 Portfolio Website</h1>
 
@@ -17,8 +16,6 @@
 - 📂 Project showcase
 - 📄 Resume download option
 - 📬 Footer with contact details
-
----
 
 ## 🛠️ Built With
 
